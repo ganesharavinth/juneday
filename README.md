@@ -2,7 +2,7 @@
 
 Issues:
 
-Service - parameters passing should be same name
+Service - parameters passing should be in same name
 
 Reactive form - [formGroup],formControlName - combination
 
